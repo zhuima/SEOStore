@@ -4,7 +4,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "The best Tailwind templates & UI kits on the internet | Tailwind Awesome",
+  title: "The best Tailwind templates & SEO kits on the internet | Tailwind Awesome",
   description: "A curated directory of the best Tailwind templates and SEO Tools to kickstart your next design.",
 };
 
